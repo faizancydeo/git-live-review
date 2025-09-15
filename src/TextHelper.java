@@ -4,4 +4,8 @@ public class TextHelper {
         return input.toUpperCase();
     }
 
+    public static int getLength(String input) {
+        return input.length();
+    }
+
 }
