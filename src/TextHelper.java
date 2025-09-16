@@ -7,5 +7,5 @@ public class TextHelper {
     public static int getLength(String input) {
         return input.length();
     }
-
+// practicing commit
 }
